@@ -209,10 +209,8 @@
     }
   },
 "headerSettings": {
-  "displayName": "Header Settings",
   "properties": {
     "showHeader": {
-      "displayName": "Show Header",
       "type": {
         "bool": true
       }
